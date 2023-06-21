@@ -3,15 +3,15 @@ Pulling Reddit data using APIs, setting up a Docker pipeline with an ETL job for
 
 # Technologies and Libraries
 
-Python 3.6-slim
-requests
-pandas
-logging
-pymongo
-SQLAlchemy<2.0.0
-psycopg2-binary
-vaderSentiment
-datetime
+- Python 3.6-slim
+- requests
+- pandas
+- logging
+- pymongo
+- SQLAlchemy<2.0.0
+- psycopg2-binary
+- vaderSentiment
+- datetime
 
 # Setup
 
