@@ -29,7 +29,7 @@ After getting necessary API Key, API Secret from Reddit Developer Account, your 
   docker-compose ps
 - check services separately:
   docker-compose logs <service name>
-- remove all stopped containers
+- remove all stopped containers:
   docker-compose rm
 
  
