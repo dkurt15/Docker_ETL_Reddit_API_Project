@@ -1,0 +1,95 @@
+2023-06-14 09:28:55,427 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2023-06-14 09:28:56,348 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 657
+2023-06-14 09:28:56,365 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth.reddit.com:443
+2023-06-14 09:28:56,701 - urllib3.connectionpool - DEBUG - https://oauth.reddit.com:443 "GET /r/Summer/new HTTP/1.1" 200 2247
+2023-06-14 09:28:57,731 - root - DEBUG - 
+---- retrieving reddit  ----
+
+2023-06-14 09:28:57,732 - root - DEBUG - 
+---- sending mongo input reddit to database ----
+
+2023-06-14 09:28:57,814 - root - DEBUG - 
+---- reddit successfully inserted to db ----
+
+2023-06-14 11:46:36,513 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2023-06-14 11:46:37,495 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 655
+2023-06-14 11:46:37,636 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth.reddit.com:443
+2023-06-14 11:46:38,195 - urllib3.connectionpool - DEBUG - https://oauth.reddit.com:443 "GET /r/Summer/new HTTP/1.1" 200 2280
+2023-06-14 11:46:38,281 - root - DEBUG - 
+---- retrieving reddit  ----
+
+2023-06-14 11:46:38,282 - root - DEBUG - 
+---- sending mongo input reddit to database ----
+
+2023-06-14 11:46:38,399 - root - DEBUG - 
+---- reddit successfully inserted to db ----
+
+2023-06-14 12:02:30,691 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2023-06-14 12:02:31,472 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 654
+2023-06-14 12:02:31,483 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth.reddit.com:443
+2023-06-14 12:02:31,884 - urllib3.connectionpool - DEBUG - https://oauth.reddit.com:443 "GET /r/Summer/new HTTP/1.1" 200 2243
+2023-06-14 12:02:31,907 - root - DEBUG - 
+---- retrieving reddit  ----
+
+2023-06-14 12:02:31,907 - root - DEBUG - 
+---- sending mongo input reddit to database ----
+
+2023-06-14 12:02:32,092 - root - DEBUG - 
+---- reddit successfully inserted to db ----
+
+2023-06-14 12:11:21,962 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2023-06-14 12:11:22,780 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 659
+2023-06-14 12:11:22,796 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth.reddit.com:443
+2023-06-14 12:11:23,291 - urllib3.connectionpool - DEBUG - https://oauth.reddit.com:443 "GET /r/Summer/new HTTP/1.1" 200 2243
+2023-06-14 12:11:23,303 - root - DEBUG - 
+---- retrieving reddit  ----
+
+2023-06-14 12:11:23,304 - root - DEBUG - 
+---- sending mongo input reddit to database ----
+
+2023-06-14 12:11:23,346 - root - DEBUG - 
+---- reddit successfully inserted to db ----
+
+2023-06-14 12:32:22,125 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2023-06-14 12:32:22,847 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 660
+2023-06-14 12:32:22,855 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth.reddit.com:443
+2023-06-14 12:32:23,141 - urllib3.connectionpool - DEBUG - https://oauth.reddit.com:443 "GET /r/Germany/new HTTP/1.1" 403 59
+2023-06-14 12:35:37,771 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2023-06-14 12:35:38,575 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 654
+2023-06-14 12:35:38,613 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth.reddit.com:443
+2023-06-14 12:35:39,119 - urllib3.connectionpool - DEBUG - https://oauth.reddit.com:443 "GET /r/Summer/new HTTP/1.1" 200 2241
+2023-06-14 12:35:39,190 - root - DEBUG - 
+---- retrieving reddit  ----
+
+2023-06-14 12:35:39,199 - root - DEBUG - 
+---- sending mongo input reddit to database ----
+
+2023-06-14 12:35:39,359 - root - DEBUG - 
+---- reddit successfully inserted to db ----
+
+2023-06-14 12:58:49,829 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2023-06-14 12:58:50,557 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 660
+2023-06-14 12:58:50,566 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth.reddit.com:443
+2023-06-14 12:58:50,975 - urllib3.connectionpool - DEBUG - https://oauth.reddit.com:443 "GET /r/Summer/new HTTP/1.1" 200 2252
+2023-06-14 12:58:50,991 - root - DEBUG - 
+---- retrieving reddit  ----
+
+2023-06-14 12:58:50,991 - root - DEBUG - 
+---- sending mongo input reddit to database ----
+
+2023-06-14 12:58:51,064 - root - DEBUG - 
+---- reddit successfully inserted to db ----
+
+2023-06-19 10:11:10,023 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2023-06-19 10:11:10,850 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "POST /api/v1/access_token HTTP/1.1" 200 660
+2023-06-19 10:11:10,856 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): oauth.reddit.com:443
+2023-06-19 10:11:11,251 - urllib3.connectionpool - DEBUG - https://oauth.reddit.com:443 "GET /r/Summer/new HTTP/1.1" 200 2243
+2023-06-19 10:11:11,263 - root - DEBUG - 
+---- retrieving reddit  ----
+
+2023-06-19 10:11:11,263 - root - DEBUG - 
+---- sending mongo input reddit to database ----
+
+2023-06-19 10:11:11,300 - root - DEBUG - 
+---- reddit successfully inserted to db ----
+

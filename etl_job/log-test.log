@@ -1,0 +1,48 @@
+2023-06-14 12:02:34,809 - root - INFO - 
+---- 1 reddits extracted ----
+
+2023-06-14 12:02:34,833 - root - DEBUG - 
+---- transformation completed ----
+
+2023-06-14 12:02:34,850 - root - DEBUG - 
+---- new reddits loaded to postgres db ----
+
+2023-06-14 12:11:25,827 - root - INFO - 
+---- 1 reddits extracted ----
+
+2023-06-14 12:11:25,868 - root - DEBUG - 
+---- transformation completed ----
+
+2023-06-14 12:11:25,914 - root - DEBUG - 
+---- new reddits loaded to postgres db ----
+
+2023-06-14 12:32:25,978 - root - INFO - 
+---- 0 reddits extracted ----
+
+2023-06-14 12:35:43,415 - root - INFO - 
+---- 1 reddits extracted ----
+
+2023-06-14 12:35:43,446 - root - DEBUG - 
+---- transformation completed ----
+
+2023-06-14 12:35:43,466 - root - DEBUG - 
+---- new reddits loaded to postgres db ----
+
+2023-06-14 12:58:54,030 - root - INFO - 
+---- 1 reddits extracted ----
+
+2023-06-14 12:58:54,055 - root - DEBUG - 
+---- transformation completed ----
+
+2023-06-14 12:58:54,073 - root - DEBUG - 
+---- new reddits loaded to postgres db ----
+
+2023-06-19 10:11:13,774 - root - INFO - 
+---- 1 reddits extracted ----
+
+2023-06-19 10:11:13,843 - root - DEBUG - 
+---- transformation completed ----
+
+2023-06-19 10:11:13,890 - root - DEBUG - 
+---- new reddits loaded to postgres db ----
+
